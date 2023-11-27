@@ -1,0 +1,82 @@
+# Blender MTL File: 'newbodies.blend'
+# Material Count: 7
+
+newmtl eye
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/eye.png
+
+newmtl eyebrow
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/eyebrow.png
+map_d /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/eyebrow.png
+
+newmtl eyelashes
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/eyelashes.png
+map_d /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/eyelashes.png
+
+newmtl hair
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/hair.png
+map_d /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/hair.png
+
+newmtl skin
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/skin.jpg
+
+newmtl teeth
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/teeth.png
+
+newmtl tongle
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/paigeingram/blenderkit_data/models/riged_claudia_ch_1e3fef25-2139-4462-8aa7-38fa00a92d78/textures_2k/tongue.jpg
